@@ -1,0 +1,15 @@
+D:\C#\POO_CSHARP\POO_CSHARP\bin\Debug\net6.0\POO_CSHARP.exe
+D:\C#\POO_CSHARP\POO_CSHARP\bin\Debug\net6.0\POO_CSHARP.deps.json
+D:\C#\POO_CSHARP\POO_CSHARP\bin\Debug\net6.0\POO_CSHARP.runtimeconfig.json
+D:\C#\POO_CSHARP\POO_CSHARP\bin\Debug\net6.0\POO_CSHARP.dll
+D:\C#\POO_CSHARP\POO_CSHARP\bin\Debug\net6.0\POO_CSHARP.pdb
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.csproj.AssemblyReference.cache
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.AssemblyInfoInputs.cache
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.AssemblyInfo.cs
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.csproj.CoreCompileInputs.cache
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.dll
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\refint\POO_CSHARP.dll
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.pdb
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\POO_CSHARP.genruntimeconfig.cache
+D:\C#\POO_CSHARP\POO_CSHARP\obj\Debug\net6.0\ref\POO_CSHARP.dll
